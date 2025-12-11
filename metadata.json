@@ -1,0 +1,7 @@
+{
+  "name": "StatusBeat",
+  "description": "Crie vídeos visuais incríveis com sua música para o Status do WhatsApp, potencializado por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
